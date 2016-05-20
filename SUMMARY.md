@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](documentation/Introduction.md)
-* Intel Edison
+* [Intel Edison](documentation/IntelEdison.md)
 
